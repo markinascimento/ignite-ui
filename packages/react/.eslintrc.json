@@ -1,0 +1,6 @@
+{
+  "extends": "@mrk-ui/eslint-config",
+  "rules": {
+    "prettier/prettier": "off"
+  }
+}

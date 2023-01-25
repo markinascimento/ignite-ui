@@ -1,6 +1,7 @@
 {
   "name": "@mrk-ui/eslint-config",
   "license": "MIT",
+  "version": "3.0.0",
   "private": true,
   "main": "index.js",
   "devDependencies": {
